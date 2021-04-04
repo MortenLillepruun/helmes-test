@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.3.7.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly "org.projectlombok:lombok:1.18.10"
+    annotationProcessor "org.projectlombok:lombok:1.18.10"
+    testCompileOnly "org.projectlombok:lombok:1.18.10"
+    testAnnotationProcessor "org.projectlombok:lombok:1.18.10"
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    runtimeOnly 'mysql:mysql-connector-java'
+
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation group: 'org.springframework.data', name: 'spring-data-commons', version: '2.3.7.RELEASE'
+    implementation group: 'org.springframework.data', name: 'spring-data-jpa', version: '2.3.7.RELEASE'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-autoconfigure', version: '2.3.7.RELEASE'
+
+    implementation group: 'javax.persistence', name: 'javax.persistence-api', version: '2.2'
+
+    testImplementation group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '2.3.7.RELEASE'
+}

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13f59ff3-6369-4319-97a7-a9d9f108a00d" name="Default Changelist" comment="added .gitignore" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="helmes-test" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="helmes-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="helmes-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qCxqqThw7IHILr7aLrOlqsZ0JA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RunManager" selected="Gradle.helmes-test [bootRun]">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SectorsRepositoryTest.testGetData" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SectorsRepositoryTest.testGetData&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="helmes-test [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="helmes-test.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="helmes.test.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.helmes-test [bootRun]" />
+        <item itemvalue="Gradle.SectorsRepositoryTest.testGetData" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f59ff3-6369-4319-97a7-a9d9f108a00d" name="Default Changelist" comment="" />
+      <created>1616597567268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616597567268</updated>
+      <workItem from="1616597569133" duration="5124000" />
+      <workItem from="1616742666820" duration="580000" />
+      <workItem from="1616747236193" duration="15872000" />
+      <workItem from="1617123638722" duration="3637000" />
+      <workItem from="1617309806551" duration="27692000" />
+    </task>
+    <task id="LOCAL−00001" summary="initial commit">
+      <created>1617570025752</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1617570025752</updated>
+    </task>
+    <task id="LOCAL−00002" summary="added .gitignore">
+      <created>1617570086256</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1617570086256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="-633" key="#Assign_Data_Sources" timestamp="1616958810240">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="732" y="-633" key="#Assign_Data_Sources/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616958810240" />
+    <state x="475" y="-956" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617569561839">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="475" y="-956" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617569561839" />
+    <state x="789" y="-923" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.961/-133.-1055.1920.1055@-133.-1055.1920.1055" timestamp="1616600748740" />
+    <state x="748" y="-809" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1616959626132">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="748" y="-809" key="#com.intellij.ide.util.TreeClassChooserDialog/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616959626132" />
+    <state x="453" y="-599" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1616955707275">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="453" y="-599" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616955707275" />
+    <state x="522" y="-861" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616961293601">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="522" y="-861" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616961293601" />
+    <state x="399" y="-941" key="CommitChangelistDialog2" timestamp="1617570170437">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="399" y="-941" key="CommitChangelistDialog2/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617570170437" />
+    <state x="153" y="-926" key="DiffContextDialog" timestamp="1617570152881">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="153" y="-926" key="DiffContextDialog/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617570152881" />
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom" timestamp="1617570281953">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617570281953" />
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964473407" />
+    <state width="1294" height="287" key="GridCell.Tab.0.bottom/0.25.1680.961/-133.-1055.1920.1055@-133.-1055.1920.1055" timestamp="1616602440495" />
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.25.1680.961@0.25.1680.961" timestamp="1617560580188" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center" timestamp="1617570281951">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.center/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617570281951" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964473406" />
+    <state width="1294" height="287" key="GridCell.Tab.0.center/0.25.1680.961/-133.-1055.1920.1055@-133.-1055.1920.1055" timestamp="1616602440495" />
+    <state width="1638" height="245" key="GridCell.Tab.0.center/0.25.1680.961@0.25.1680.961" timestamp="1617560580187" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left" timestamp="1617570281951">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.left/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617570281951" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964473405" />
+    <state width="1294" height="287" key="GridCell.Tab.0.left/0.25.1680.961/-133.-1055.1920.1055@-133.-1055.1920.1055" timestamp="1616602440494" />
+    <state width="1638" height="245" key="GridCell.Tab.0.left/0.25.1680.961@0.25.1680.961" timestamp="1617560580187" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right" timestamp="1617570281952">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.right/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617570281952" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964473407" />
+    <state width="1294" height="287" key="GridCell.Tab.0.right/0.25.1680.961/-133.-1055.1920.1055@-133.-1055.1920.1055" timestamp="1616602440495" />
+    <state width="1638" height="245" key="GridCell.Tab.0.right/0.25.1680.961@0.25.1680.961" timestamp="1617560580188" />
+    <state width="1638" height="287" key="GridCell.Tab.1.bottom" timestamp="1616964325076">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.1.bottom/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616962958757" />
+    <state width="1638" height="287" key="GridCell.Tab.1.bottom/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964325076" />
+    <state width="1638" height="287" key="GridCell.Tab.1.center" timestamp="1616964325075">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.1.center/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616962958756" />
+    <state width="1638" height="287" key="GridCell.Tab.1.center/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964325075" />
+    <state width="1638" height="287" key="GridCell.Tab.1.left" timestamp="1616964325075">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.1.left/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616962958756" />
+    <state width="1638" height="287" key="GridCell.Tab.1.left/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964325075" />
+    <state width="1638" height="287" key="GridCell.Tab.1.right" timestamp="1616964325076">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.1.right/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616962958757" />
+    <state width="1638" height="287" key="GridCell.Tab.1.right/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964325076" />
+    <state x="458" y="-824" key="NewModule_or_Project.wizard" timestamp="1616963364334">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="458" y="-824" key="NewModule_or_Project.wizard/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1616963364334" />
+    <state x="313" y="-949" key="SettingsEditor" timestamp="1617569197600">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="313" y="-949" key="SettingsEditor/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617569197600" />
+    <state x="425" y="-804" key="Vcs.Push.Dialog.v2" timestamp="1617570174502">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="425" y="-804" key="Vcs.Push.Dialog.v2/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617570174502" />
+    <state x="711" y="-636" width="334" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1617565048866">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="711" y="-636" width="334" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617565048866" />
+    <state x="740" y="407" width="342" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616964402974" />
+    <state x="713" y="-636" width="334" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.25.1680.961/-133.-1055.1920.1055@-133.-1055.1920.1055" timestamp="1616602399854" />
+    <state x="567" y="-720" width="517" height="377" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1617361063526">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="567" y="-720" width="517" height="377" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617361063526" />
+    <state x="614" y="330" width="452" height="347" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/-135.-1055.1920.1055/0.25.1680.961@0.25.1680.961" timestamp="1616963754084" />
+    <state x="631" y="-610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617569918696">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="631" y="-610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617569918696" />
+    <state x="-50" y="-927" key="new project wizard" timestamp="1617043599113">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="-50" y="-927" key="new project wizard/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617043599113" />
+    <state x="211" y="-918" key="new project wizard/0.25.1680.961/-133.-1055.1920.1055@-133.-1055.1920.1055" timestamp="1616597580828" />
+    <state x="490" y="-821" width="670" height="676" key="search.everywhere.popup" timestamp="1617569930594">
+      <screen x="-135" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="490" y="-821" width="670" height="676" key="search.everywhere.popup/-135.-1055.1920.1055/0.25.1680.961@-135.-1055.1920.1055" timestamp="1617569930594" />
+  </component>
+</project>
